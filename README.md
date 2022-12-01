@@ -1,13 +1,16 @@
 # Redux quiz group project
 
-Replace this readme with your own information about your project.
+The purpose of this project was to learn how to work with global state in React with the help of Redux.
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+The minimum requirements included:
+- At least 5 survey questions
+- Visual confirmation if the answer is correct or not
+- Counter that shows which question a user is on
+- A summary of answers at the end of the survey
 
-## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+The project was done as a group project together with four other classmates.
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://redux-recycling.netlify.app/
+
